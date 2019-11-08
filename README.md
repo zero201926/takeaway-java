@@ -1,4 +1,4 @@
-# takeaway-javaScript
+# takeaway-javaScript - not working
 Steps to learning a new language:
 1. Read an intro guide to it to learn conventions.
 2. Find the docs for the language, and cheat sheets.
