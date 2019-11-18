@@ -10,3 +10,10 @@ Steps to learning a new language:
 8. Asks some with experience in the language what they would have done to learn it.
 9. Find out how you get visibility in the language for debugging.
 10. Adapt your debugging process for the new language.
+
+```
+To run open:
+ -SpecRunner.html
+ 
+ ```
+ 
